@@ -228,11 +228,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @ftmmovieworld{filename}
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : @ftmmovieworld {filename} </b>
+
+<b>⏰ Dᴜʀᴀᴛɪᴏɴ: {duration} ⏳</b>
 <b>
-⏰ Dᴜʀᴀᴛɪᴏɴ: {duration} ⏳
-<b>
-🌐 Uᴘʟᴏᴀᴅᴇᴅ ʙʏ @FTMMOVIEWORLD 🌟 <b>
+🌐 Uᴘʟᴏᴀᴅᴇᴅ ʙʏ @FTMMOVIEWORLD 🌟 </b>
 🎥 Rɪᴘᴘᴇᴅ ʙʏ @FUNTOONSMULTIMEDIA 🔥
 
 <b> Size ⚙️: {file_size} 📦 </b>""" 
